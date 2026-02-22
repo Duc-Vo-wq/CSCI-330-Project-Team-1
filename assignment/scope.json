@@ -1,0 +1,14 @@
+{
+  "allowed_domains": [
+    "10.50.0.2",
+    "target1.lab.local"
+  ],
+  "allowed_suffixes": [
+    ".lab.local"
+  ],
+  "deny_domains": [
+    "prod.lab.local"
+  ],
+  "max_requests_per_min": 120,
+  "timeout_seconds": 2
+}

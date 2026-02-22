@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "team": "TEAM 1",
+    "started_at": "",
+    "finished_at": ""
+  },
+  "target": {
+    "domain": "10.50.0.2"
+  },
+  "scope_check": {
+    "in_scope": true,
+    "reason": ""
+  },
+  "dns": {
+    "A": [],
+    "AAAA": [],
+    "MX": [],
+    "NS": [],
+    "TXT": [],
+    "errors": [],
+    "PTR": []
+  },
+  "http": [
+    {
+      "url": "http://10.50.0.2",
+      "status": 0,
+      "headers": {},
+      "error": ""
+    },
+    {
+      "url": "https://10.50.0.2",
+      "status": 0,
+      "headers": {},
+      "error": ""
+    }
+  ]
+}
